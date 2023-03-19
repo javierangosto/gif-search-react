@@ -19,7 +19,7 @@ export const GifApp = () => {
             <h1>GifApp</h1>
 
             <AddCategory 
-                onNewCategory = { onAddCategory }
+                onNewCategory = { ( value ) => onAddCategory( value ) }
             />
             
             {

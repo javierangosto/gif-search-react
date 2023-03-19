@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GifItem Debe de hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Outer Space Fire GIF by Xbox"
+      src="https://media4.giphy.com/media/WW33vGSPHXym7Wh80e/giphy-downsized-medium.gif?cid=19fa88ae6jp0oiwdixlqrhahko9fzuomf7nq0ya6ebiuokjs&rid=giphy-downsized-medium.gif&ct=g"
+    />
+    <p>
+      Outer Space Fire GIF by Xbox
+    </p>
+  </div>
+</div>
+`;
